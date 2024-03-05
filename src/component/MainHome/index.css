@@ -1,0 +1,8 @@
+.main__home {
+  width: 100%;
+  height: calc(100vh - var(--height-header));
+  background-color: coral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

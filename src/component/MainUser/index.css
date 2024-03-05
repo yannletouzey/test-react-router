@@ -1,0 +1,8 @@
+.main__user {
+  width: 100%;
+  height: calc(100vh - var(--height-header));
+  background-color: rgb(80, 255, 144);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
